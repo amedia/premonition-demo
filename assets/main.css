@@ -96,7 +96,7 @@ blockquote {
  */
 pre,
 code {
-  font-size: 15px;
+  font-size: 13.4px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
   background-color: #fff; }
@@ -358,7 +358,7 @@ table {
 .highlight {
   background: #fff; }
   .highlighter-rouge .highlight {
-    background: #eee; }
+    background: #fff; }
   .highlight .c {
     color: #998;
     font-style: italic; }
@@ -409,7 +409,7 @@ table {
   .highlight .gu {
     color: #aaa; }
   .highlight .gt {
-    color: #aaa; }
+    color: #888; }
   .highlight .kc {
     font-weight: bold; }
   .highlight .kd {
@@ -503,7 +503,8 @@ table {
   border-left: 4px solid #5bc0de;
   color: #5bc0de; }
   .premonition code {
-    background-color: #5bc0de; }
+    background-color: #fff;
+    color: #5bc0de; }
   .premonition .header {
     font-weight: 700;
     font-size: 15px;
@@ -520,23 +521,32 @@ table {
     background-color: #f3f8f3;
     color: #50af51;
     border-color: #50af51; }
+    .premonition.info a {
+      color: #50af51;
+      text-decoration: underline; }
     .premonition.info code {
-      background-color: #50af51; }
+      color: #50af51; }
     .premonition.info .header {
       color: #50af51; }
   .premonition.warning {
     background-color: #fcf8f2;
     color: #f0ad4e;
     border-color: #f0ad4e; }
+    .premonition.warning a {
+      color: #f0ad4e;
+      text-decoration: underline; }
     .premonition.warning code {
-      background-color: #f0ad4e; }
+      color: #f0ad4e; }
     .premonition.warning .header {
       color: #f0ad4e; }
   .premonition.error {
     background-color: #fdf7f7;
     color: #d9534f;
     border-color: #d9534f; }
+    .premonition.error a {
+      color: #d9534f;
+      text-decoration: underline; }
     .premonition.error code {
-      background-color: #d9534f; }
+      color: #d9534f; }
     .premonition.error .header {
       color: #d9534f; }
