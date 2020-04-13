@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/premonition-demo/feed.xml" rel="self" type="application/atom+xml" /><link href="/premonition-demo/" rel="alternate" type="text/html" /><updated>2020-03-17T06:43:11+01:00</updated><id>/premonition-demo/feed.xml</id><title type="html">Premonition Demo Site</title><subtitle>Demo site for Premonition</subtitle><entry><title type="html">Welcome to Premonition!</title><link href="/premonition-demo/2020/03/02/blog-post.html" rel="alternate" type="text/html" title="Welcome to Premonition!" /><published>2020-03-02T00:00:00+01:00</published><updated>2020-03-02T00:00:00+01:00</updated><id>/premonition-demo/2020/03/02/blog-post</id><content type="html" xml:base="/premonition-demo/2020/03/02/blog-post.html">&lt;div class=&quot;premonition info&quot;&gt;&lt;i class=&quot;fas fa-info-circle&quot;&gt;&lt;/i&gt;&lt;div class=&quot;content&quot;&gt;&lt;p class=&quot;header&quot;&gt;The information header&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean interdum, ligula in
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/premonition-demo/feed.xml" rel="self" type="application/atom+xml" /><link href="/premonition-demo/" rel="alternate" type="text/html" /><updated>2020-04-13T16:31:57+02:00</updated><id>/premonition-demo/feed.xml</id><title type="html">Premonition Demo Site</title><subtitle>Demo site for Premonition</subtitle><entry><title type="html">Welcome to Premonition!</title><link href="/premonition-demo/2020/03/02/blog-post.html" rel="alternate" type="text/html" title="Welcome to Premonition!" /><published>2020-03-02T00:00:00+01:00</published><updated>2020-03-02T00:00:00+01:00</updated><id>/premonition-demo/2020/03/02/blog-post</id><content type="html" xml:base="/premonition-demo/2020/03/02/blog-post.html">&lt;div class=&quot;premonition info&quot;&gt;
+  &lt;i class=&quot;premonition pn-info&quot;&gt;&lt;/i&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;p class=&quot;header&quot;&gt;The information header&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean interdum, ligula in
 ultrices sodales, ante enim scelerisque diam, nec molestie lorem nulla sit amet dolor.
 Aenean id augue ante. Duis ut mi faucibus, pellentesque sem quis, gravida nisi. Nam cursus.&lt;/p&gt;
 
 
 
-&lt;/div&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;!--more--&gt;
 
 &lt;h2 id=&quot;not-in-excerpt&quot;&gt;Not in excerpt&lt;/h2&gt;
